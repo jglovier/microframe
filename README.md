@@ -1,6 +1,6 @@
 # Microframe
 
-*Microframe is a micro (200px wide), grid based wireframe PSD template for mocking up website and app layouts.*
+**Microframe is a micro (200px wide), grid based wireframe PSD template for mocking up website and app layouts.**
 
 ![Sample Microframe Detail Image](https://raw.github.com/jglovier/microframe/master/samples/microframe-detail-template.png)
 ![Sample Microframe Responsive Views Image](https://raw.github.com/jglovier/microframe/master/samples/microframe-responsive-views-template.png)
