@@ -2,8 +2,8 @@
 
 **Microframe is a micro (200px wide), grid based wireframe PSD template for mocking up website and app layouts. The repo includes:**
 
-1) A 200px Microframe PSD Template with a 12 column grid and 3 sample layouts (12 column, 6 column, and 4 column layouts).
-2) A Microframe Detail PSD Template which you can place your Microframe PSDs in to explain/present to clients, or simply detail components for your own reference. The Detail PSD also has a view for laying out your layout variations (as seen in the two screens below).
+1. A 200px Microframe PSD Template with a 12 column grid and 3 sample layouts (12 column, 6 column, and 4 column layouts).
+2. A Microframe Detail PSD Template which you can place your Microframe PSDs in to explain/present to clients, or simply detail components for your own reference. The Detail PSD also has a view for laying out your layout variations (as seen in the two screens below).
 
 ![Sample Microframe Detail Image](https://raw.github.com/jglovier/microframe/master/samples/microframe-detail-template.png)
 ![Sample Microframe Responsive Views Image](https://raw.github.com/jglovier/microframe/master/samples/microframe-responsive-views-template.png)
