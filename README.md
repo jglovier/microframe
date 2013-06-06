@@ -1,4 +1,4 @@
-# Microframe
+# Microframe Template
 
 **Microframe is a micro (200px wide), grid based wireframe PSD template for mocking up website and app layouts. The repo includes:**
 
