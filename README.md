@@ -37,4 +37,4 @@ You also might want to save out a blank copy as your own template. Then, each ti
 Um, yes! That's how this open source stuff works, my friend. Please fork and make it your own, or make it better and share with the world!
 
 ### Can I Submit Issues or Feature Requests?
-Yeah dawg! Just use the repo issues tracker and I'll address things as I am able.
+Yeah bromie! Just use the repo issues tracker and I'll address things as I am able.
